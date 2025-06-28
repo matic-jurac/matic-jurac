@@ -11,7 +11,8 @@ I am Matic Jurač, an undergraduate student of Computer science in Slovenia.
 - 📖 Reading books
 - 🍳 Cooking
 - 🐶 Actively helping animals
-
+- 🌍 Learning languages
+- 
 ### 🛠️ Languages and tools I use
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"  width="40" height="40"/>
