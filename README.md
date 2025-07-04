@@ -1,5 +1,5 @@
 ```bash
-matic@github.com$ cat welcome
+matic@github.com$ cat welcome.txt
 Serbus 👋
 
 I am Matic Jurač, an undergraduate student of Computer science in Slovenia.
