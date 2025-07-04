@@ -1,19 +1,20 @@
+**$ cat welcome**
 ## Serbus 👋
 
 I am Matic Jurač, an undergraduate student of Computer science in Slovenia.
 
-### 👨‍💻 I am currently working on:
+**$ ls -l current_projects/**
 - [My personal webpage](https://matic-jurac.github.io)
 - [My university project](https://github.com/Nepozorni/Nepozorni-Main)
 - My homelab
 
-### 😄 What I enjoy outside of tech:
+**$ ls -l other_hobbies/**
 - 📖 Reading books
 - 🍳 Cooking
 - 🐶 Actively helping animals
 - 🌍 Learning languages
 - 
-### 🛠️ Languages and tools I use
+**$ ls tools_and_langauges/**
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"  width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"  width="40" height="40"/>
