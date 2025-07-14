@@ -1,4 +1,4 @@
-```bash
+```
 matic@github.com$ cat welcome.txt
 Serbus 👋
 
