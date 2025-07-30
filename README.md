@@ -1,3 +1,4 @@
+```
 matic@github.com$ cat welcome.txt
 Serbus 👋
 
@@ -18,6 +19,7 @@ total 5
 matic@github.com$ ls tools_and_langauges/
 code linux.so windows11.dll java.java python.py html.html css.css javascript.js
 tailwindcss.css docker.dockerfile 
+```
 <!--
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"  width="40" height="40"/>
