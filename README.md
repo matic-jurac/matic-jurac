@@ -1,2 +1,1 @@
-I use codeberg now
-fuck ai
+[i use gitlab now](https://gitlab.com/matic.developer)
